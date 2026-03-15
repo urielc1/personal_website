@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume & Contact",
+    "section": "",
+    "text": "You can view or download my resume here:\nDownload My Resume (PDF)\n\n\n\nEmail: youremail@example.com\nGitHub: github.com/yourusername\nLinkedIn: linkedin.com/in/yourlinkedin\n\n\n\n\nFeel free to connect with me or explore more of my work through the platforms above."
+  },
+  {
+    "objectID": "resume.html#contact",
+    "href": "resume.html#contact",
+    "title": "Resume & Contact",
+    "section": "",
+    "text": "Email: youremail@example.com\nGitHub: github.com/yourusername\nLinkedIn: linkedin.com/in/yourlinkedin"
+  },
+  {
+    "objectID": "resume.html#professional-links",
+    "href": "resume.html#professional-links",
+    "title": "Resume & Contact",
+    "section": "",
+    "text": "Feel free to connect with me or explore more of my work through the platforms above."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Statistics & Data Science Student at UCLA\nI’m a UCLA student interested in data analysis, machine learning, and using data to solve real-world problems. My work focuses on building clear, useful insights from messy datasets, with experience in Python, R, SQL, Tableau, and statistical modeling.\nView My Projects Resume & Contact"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Home",
+    "section": "Education",
+    "text": "Education\nB.S. in Statistics & Data Science\nUniversity of California, Los Angeles\nExpected Graduation: June 2027"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Home",
+    "section": "Interests",
+    "text": "Interests\n\nData science\nMachine learning\nBusiness analytics\nData visualization\nPublic sector / social impact applications"
+  },
+  {
+    "objectID": "index.html#tools",
+    "href": "index.html#tools",
+    "title": "Home",
+    "section": "Tools",
+    "text": "Tools\nPython, R, SQL, Tableau, GitHub, Quarto, C++"
+  },
+  {
+    "objectID": "index.html#quick-introduction",
+    "href": "index.html#quick-introduction",
+    "title": "Home",
+    "section": "Quick Introduction",
+    "text": "Quick Introduction\nWelcome to my personal website. This site highlights my background, projects, and interests as I continue building my experience in statistics, data science, and analytical problem-solving. I created this website to share my work with employers, collaborators, and anyone interested in learning more about what I do.\n\n\n\nProfessional headshot"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a Statistics & Data Science student at UCLA with a strong interest in using data to uncover meaningful patterns, communicate insights clearly, and support decision-making. I enjoy working on projects that combine technical analysis with real-world relevance.\nMy academic background has given me experience with statistical modeling, regression, machine learning, data cleaning, visualization, and interpreting results for different audiences. I am especially interested in projects where data can be used to better understand behavior, trends, and outcomes.\n\n\nUniversity of California, Los Angeles (UCLA)\nB.S. in Statistics & Data Science\nExpected Graduation: Month Year\nRelevant Coursework - Regression Analysis - Machine Learning / Data Analysis - Statistical Computing - Data Visualization - Linear Algebra - Probability / Mathematical Statistics\n\n\n\nI’m especially interested in: - data analysis for real-world decision-making - machine learning and predictive modeling - data visualization and communication - interdisciplinary projects connecting data with social, business, or public issues\n\n\n\nYou can add 2–3 lines here about leadership, student orgs, workshops, or broader interests. For example:\nI’ve also enjoyed working in collaborative team settings, presenting findings, and helping others learn technical tools. I value projects that are both analytically strong and clearly communicated."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "University of California, Los Angeles (UCLA)\nB.S. in Statistics & Data Science\nExpected Graduation: Month Year\nRelevant Coursework - Regression Analysis - Machine Learning / Data Analysis - Statistical Computing - Data Visualization - Linear Algebra - Probability / Mathematical Statistics"
+  },
+  {
+    "objectID": "about.html#what-im-interested-in",
+    "href": "about.html#what-im-interested-in",
+    "title": "About",
+    "section": "",
+    "text": "I’m especially interested in: - data analysis for real-world decision-making - machine learning and predictive modeling - data visualization and communication - interdisciplinary projects connecting data with social, business, or public issues"
+  },
+  {
+    "objectID": "about.html#outside-the-classroom",
+    "href": "about.html#outside-the-classroom",
+    "title": "About",
+    "section": "",
+    "text": "You can add 2–3 lines here about leadership, student orgs, workshops, or broader interests. For example:\nI’ve also enjoyed working in collaborative team settings, presenting findings, and helping others learn technical tools. I value projects that are both analytically strong and clearly communicated."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Overview:\nBuilt a multiple linear regression project in R to study how movie reviews and related features influenced box office revenue.\nMy Contribution:\nWorked on data analysis, diagnostic plots, model interpretation, and presentation of findings.\nTools:\nR, regression analysis, data visualization\n\n\n\n\nOverview:\nDeveloped a machine learning model in Python to classify penguin species using both numerical and categorical features.\nMy Contribution:\nHelped preprocess the data, build the model, and evaluate predictive performance.\nTools:\nPython, pandas, machine learning\n\n\n\n\nOverview:\nCreated a Tableau-based group project analyzing dating profile data to identify trends and patterns in self-presentation.\nMy Contribution:\nContributed to analysis, visualization design, and communicating results in a presentation.\nTools:\nTableau, data visualization, exploratory data analysis\n\n\n\n\nFor each project, use this format:\n\n\nOverview:\n1–2 sentences explaining the problem or goal.\nMy Contribution:\nWhat you specifically did.\nTools:\nList tools, skills, or methods.\nLink:\nGitHub Repo\nor\nReport / Writeup"
+  },
+  {
+    "objectID": "projects.html#movie-box-office-regression-analysis",
+    "href": "projects.html#movie-box-office-regression-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "Overview:\nBuilt a multiple linear regression project in R to study how movie reviews and related features influenced box office revenue.\nMy Contribution:\nWorked on data analysis, diagnostic plots, model interpretation, and presentation of findings.\nTools:\nR, regression analysis, data visualization"
+  },
+  {
+    "objectID": "projects.html#penguin-species-classification-model",
+    "href": "projects.html#penguin-species-classification-model",
+    "title": "Projects",
+    "section": "",
+    "text": "Overview:\nDeveloped a machine learning model in Python to classify penguin species using both numerical and categorical features.\nMy Contribution:\nHelped preprocess the data, build the model, and evaluate predictive performance.\nTools:\nPython, pandas, machine learning"
+  },
+  {
+    "objectID": "projects.html#dating-profile-data-visualization-project",
+    "href": "projects.html#dating-profile-data-visualization-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Overview:\nCreated a Tableau-based group project analyzing dating profile data to identify trends and patterns in self-presentation.\nMy Contribution:\nContributed to analysis, visualization design, and communicating results in a presentation.\nTools:\nTableau, data visualization, exploratory data analysis"
+  },
+  {
+    "objectID": "projects.html#add-more-projects-here",
+    "href": "projects.html#add-more-projects-here",
+    "title": "Projects",
+    "section": "",
+    "text": "For each project, use this format:\n\n\nOverview:\n1–2 sentences explaining the problem or goal.\nMy Contribution:\nWhat you specifically did.\nTools:\nList tools, skills, or methods.\nLink:\nGitHub Repo\nor\nReport / Writeup"
+  }
+]
