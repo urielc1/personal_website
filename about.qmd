@@ -1,0 +1,41 @@
+---
+title: "about"
+---
+
+---
+title: "About"
+---
+
+# About Me
+
+I am a Statistics & Data Science student at UCLA with a strong interest in using data to uncover meaningful patterns, communicate insights clearly, and support decision-making. I enjoy working on projects that combine technical analysis with real-world relevance.
+
+My academic background has given me experience with statistical modeling, regression, machine learning, data cleaning, visualization, and interpreting results for different audiences. I am especially interested in projects where data can be used to better understand behavior, trends, and outcomes.
+
+## Education
+
+**University of California, Los Angeles (UCLA)**  
+B.S. in Statistics & Data Science  
+Expected Graduation: Month Year
+
+**Relevant Coursework**
+- Regression Analysis
+- Machine Learning / Data Analysis
+- Statistical Computing
+- Data Visualization
+- Linear Algebra
+- Probability / Mathematical Statistics
+
+## What I’m Interested In
+
+I’m especially interested in:
+- data analysis for real-world decision-making
+- machine learning and predictive modeling
+- data visualization and communication
+- interdisciplinary projects connecting data with social, business, or public issues
+
+## Outside the Classroom
+
+You can add 2–3 lines here about leadership, student orgs, workshops, or broader interests. For example:
+
+I’ve also enjoyed working in collaborative team settings, presenting findings, and helping others learn technical tools. I value projects that are both analytically strong and clearly communicated.

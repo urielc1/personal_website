@@ -1,0 +1,81 @@
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.navbar {
+  font-weight: 500;
+}
+
+.hero-section {
+  text-align: center;
+  padding: 5rem 1rem 3rem 1rem;
+  background: linear-gradient(to right, #f8f9fa, #e9f2ff);
+  border-radius: 18px;
+  margin-bottom: 2rem;
+}
+
+.hero-section h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+.hero-section p {
+  font-size: 1.2rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.card-custom {
+  background: white;
+  border: 1px solid #e5e5e5;
+  border-radius: 16px;
+  padding: 1.25rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+}
+
+.btn-custom {
+  display: inline-block;
+  margin: 0.5rem;
+  padding: 0.75rem 1.25rem;
+  background-color: #1f4e79;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+  font-weight: 600;
+}
+
+.btn-custom:hover {
+  color: white;
+  background-color: #173a5c;
+}
+
+.btn-custom-outline {
+  display: inline-block;
+  margin: 0.5rem;
+  padding: 0.75rem 1.25rem;
+  border: 2px solid #1f4e79;
+  color: #1f4e79;
+  text-decoration: none;
+  border-radius: 10px;
+  font-weight: 600;
+}
+
+.btn-custom-outline:hover {
+  background-color: #1f4e79;
+  color: white;
+}
+
+.profile-home {
+  display: block;
+  max-width: 220px;
+  border-radius: 16px;
+  margin: 2rem auto;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+}

@@ -1,0 +1,19 @@
+---
+title: "Resume & Contact"
+---
+
+# Resume
+
+You can view or download my resume here:
+
+[Download My Resume (PDF)](resume.pdf)
+
+## Contact
+
+- **Email:** [youremail@example.com](mailto:youremail@example.com)
+- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **LinkedIn:** [linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/yourlinkedin)
+
+## Professional Links
+
+Feel free to connect with me or explore more of my work through the platforms above.

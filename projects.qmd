@@ -1,0 +1,68 @@
+---
+title: "projects"
+---
+
+---
+title: "Projects"
+---
+
+# Projects
+
+## Movie Box Office Regression Analysis
+
+**Overview:**  
+Built a multiple linear regression project in R to study how movie reviews and related features influenced box office revenue.
+
+**My Contribution:**  
+Worked on data analysis, diagnostic plots, model interpretation, and presentation of findings.
+
+**Tools:**  
+R, regression analysis, data visualization
+
+---
+
+## Penguin Species Classification Model
+
+**Overview:**  
+Developed a machine learning model in Python to classify penguin species using both numerical and categorical features.
+
+**My Contribution:**  
+Helped preprocess the data, build the model, and evaluate predictive performance.
+
+**Tools:**  
+Python, pandas, machine learning
+
+---
+
+## Dating Profile Data Visualization Project
+
+**Overview:**  
+Created a Tableau-based group project analyzing dating profile data to identify trends and patterns in self-presentation.
+
+**My Contribution:**  
+Contributed to analysis, visualization design, and communicating results in a presentation.
+
+**Tools:**  
+Tableau, data visualization, exploratory data analysis
+
+---
+
+## Add More Projects Here
+
+For each project, use this format:
+
+### Project Title
+
+**Overview:**  
+1–2 sentences explaining the problem or goal.
+
+**My Contribution:**  
+What you specifically did.
+
+**Tools:**  
+List tools, skills, or methods.
+
+**Link:**  
+[GitHub Repo](https://github.com/yourusername/project)  
+or  
+[Report / Writeup](https://...)
