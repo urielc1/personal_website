@@ -6,7 +6,7 @@ title: "Resume & Contact"
 
 You can view or download my resume here:
 
-[Download My Resume (PDF)](resume.pdf)
+[Download My Resume (PDF)](my_resume.pdf)
 
 ## Contact
 
