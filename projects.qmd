@@ -43,11 +43,7 @@ Tableau, data visualization, exploratory data analysis
 
 ------------------------------------------------------------------------
 
-## Add More Projects Here
-
-For each project, use this format:
-
-### Project Title
+## Los Angeles Housing Price Analysis
 
 **Overview:**\
 Conducted an exploratory analysis of housing prices in Los Angeles using historical housing datasets and geographic data. The project focused on identifying spatial and structural patterns that influence property values.
