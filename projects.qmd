@@ -1,8 +1,4 @@
 ---
-title: "projects"
----
-
----
 title: "Projects"
 ---
 
@@ -10,42 +6,42 @@ title: "Projects"
 
 ## Movie Box Office Regression Analysis
 
-**Overview:**  
+**Overview:**\
 Built a multiple linear regression project in R to study how movie reviews and related features influenced box office revenue.
 
-**My Contribution:**  
+**My Contribution:**\
 Worked on data analysis, diagnostic plots, model interpretation, and presentation of findings.
 
-**Tools:**  
+**Tools:**\
 R, regression analysis, data visualization
 
----
+------------------------------------------------------------------------
 
-## Penguin Species Classification Model
+## YouTube Virality Predictor
 
-**Overview:**  
-Developed a machine learning model in Python to classify penguin species using both numerical and categorical features.
+**Overview:**\
+Developed a machine learning model in Python to predict whether a YouTube video would become viral using large-scale metadata and textual features.
 
-**My Contribution:**  
-Helped preprocess the data, build the model, and evaluate predictive performance.
+**My Contribution:**\
+Scraped and processed over 774,000 video records, engineered structured and text-based features, and helped train a neural network model to analyze patterns in video performance.
 
-**Tools:**  
-Python, pandas, machine learning
+**Tools:**\
+Python, Pandas, NumPy, Scikit-learn, TensorFlow, machine learning
 
----
+------------------------------------------------------------------------
 
 ## Dating Profile Data Visualization Project
 
-**Overview:**  
+**Overview:**\
 Created a Tableau-based group project analyzing dating profile data to identify trends and patterns in self-presentation.
 
-**My Contribution:**  
+**My Contribution:**\
 Contributed to analysis, visualization design, and communicating results in a presentation.
 
-**Tools:**  
+**Tools:**\
 Tableau, data visualization, exploratory data analysis
 
----
+------------------------------------------------------------------------
 
 ## Add More Projects Here
 
@@ -53,16 +49,16 @@ For each project, use this format:
 
 ### Project Title
 
-**Overview:**  
-1–2 sentences explaining the problem or goal.
+**Overview:**\
+Conducted an exploratory analysis of housing prices in Los Angeles using historical housing datasets and geographic data. The project focused on identifying spatial and structural patterns that influence property values.
 
-**My Contribution:**  
-What you specifically did.
+**My Contribution:**\
+Cleaned and processed housing datasets, integrated geographic boundary data for Los Angeles County, and built a regression-based model to examine how location and housing characteristics relate to price trends.
 
-**Tools:**  
+**Tools:**\
 List tools, skills, or methods.
 
-**Link:**  
-[GitHub Repo](https://github.com/yourusername/project)  
-or  
+**Link:**\
+[GitHub Repo](https://github.com/yourusername/project)\
+or\
 [Report / Writeup](https://...)

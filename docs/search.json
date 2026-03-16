@@ -88,7 +88,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Overview:\nBuilt a multiple linear regression project in R to study how movie reviews and related features influenced box office revenue.\nMy Contribution:\nWorked on data analysis, diagnostic plots, model interpretation, and presentation of findings.\nTools:\nR, regression analysis, data visualization\n\n\n\n\nOverview:\nDeveloped a machine learning model in Python to classify penguin species using both numerical and categorical features.\nMy Contribution:\nHelped preprocess the data, build the model, and evaluate predictive performance.\nTools:\nPython, pandas, machine learning\n\n\n\n\nOverview:\nCreated a Tableau-based group project analyzing dating profile data to identify trends and patterns in self-presentation.\nMy Contribution:\nContributed to analysis, visualization design, and communicating results in a presentation.\nTools:\nTableau, data visualization, exploratory data analysis\n\n\n\n\nFor each project, use this format:\n\n\nOverview:\n1–2 sentences explaining the problem or goal.\nMy Contribution:\nWhat you specifically did.\nTools:\nList tools, skills, or methods.\nLink:\nGitHub Repo\nor\nReport / Writeup"
+    "text": "Overview:\nBuilt a multiple linear regression project in R to study how movie reviews and related features influenced box office revenue.\nMy Contribution:\nWorked on data analysis, diagnostic plots, model interpretation, and presentation of findings.\nTools:\nR, regression analysis, data visualization\n\n\n\n\nOverview:\nDeveloped a machine learning model in Python to predict whether a YouTube video would become viral using large-scale metadata and textual features.\nMy Contribution:\nScraped and processed over 774,000 video records, engineered structured and text-based features, and helped train a neural network model to analyze patterns in video performance.\nTools:\nPython, Pandas, NumPy, Scikit-learn, TensorFlow, machine learning\n\n\n\n\nOverview:\nCreated a Tableau-based group project analyzing dating profile data to identify trends and patterns in self-presentation.\nMy Contribution:\nContributed to analysis, visualization design, and communicating results in a presentation.\nTools:\nTableau, data visualization, exploratory data analysis\n\n\n\n\nFor each project, use this format:\n\n\nOverview:\nConducted an exploratory analysis of housing prices in Los Angeles using historical housing datasets and geographic data. The project focused on identifying spatial and structural patterns that influence property values.\nMy Contribution:\nCleaned and processed housing datasets, integrated geographic boundary data for Los Angeles County, and built a regression-based model to examine how location and housing characteristics relate to price trends.\nTools:\nList tools, skills, or methods.\nLink:\nGitHub Repo\nor\nReport / Writeup"
   },
   {
     "objectID": "projects.html#movie-box-office-regression-analysis",
@@ -98,11 +98,11 @@
     "text": "Overview:\nBuilt a multiple linear regression project in R to study how movie reviews and related features influenced box office revenue.\nMy Contribution:\nWorked on data analysis, diagnostic plots, model interpretation, and presentation of findings.\nTools:\nR, regression analysis, data visualization"
   },
   {
-    "objectID": "projects.html#penguin-species-classification-model",
-    "href": "projects.html#penguin-species-classification-model",
+    "objectID": "projects.html#youtube-virality-predictor",
+    "href": "projects.html#youtube-virality-predictor",
     "title": "Projects",
     "section": "",
-    "text": "Overview:\nDeveloped a machine learning model in Python to classify penguin species using both numerical and categorical features.\nMy Contribution:\nHelped preprocess the data, build the model, and evaluate predictive performance.\nTools:\nPython, pandas, machine learning"
+    "text": "Overview:\nDeveloped a machine learning model in Python to predict whether a YouTube video would become viral using large-scale metadata and textual features.\nMy Contribution:\nScraped and processed over 774,000 video records, engineered structured and text-based features, and helped train a neural network model to analyze patterns in video performance.\nTools:\nPython, Pandas, NumPy, Scikit-learn, TensorFlow, machine learning"
   },
   {
     "objectID": "projects.html#dating-profile-data-visualization-project",
@@ -116,6 +116,6 @@
     "href": "projects.html#add-more-projects-here",
     "title": "Projects",
     "section": "",
-    "text": "For each project, use this format:\n\n\nOverview:\n1–2 sentences explaining the problem or goal.\nMy Contribution:\nWhat you specifically did.\nTools:\nList tools, skills, or methods.\nLink:\nGitHub Repo\nor\nReport / Writeup"
+    "text": "For each project, use this format:\n\n\nOverview:\nConducted an exploratory analysis of housing prices in Los Angeles using historical housing datasets and geographic data. The project focused on identifying spatial and structural patterns that influence property values.\nMy Contribution:\nCleaned and processed housing datasets, integrated geographic boundary data for Los Angeles County, and built a regression-based model to examine how location and housing characteristics relate to price trends.\nTools:\nList tools, skills, or methods.\nLink:\nGitHub Repo\nor\nReport / Writeup"
   }
 ]
