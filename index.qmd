@@ -6,42 +6,44 @@ title: "Home"
 title: "Home"
 ---
 
-::: {.hero-section}
+::: hero-section
 # Uriel Santa Cruz
 
 Statistics & Data Science Student at UCLA
 
 I’m a UCLA student interested in data analysis, machine learning, and using data to solve real-world problems. My work focuses on building clear, useful insights from messy datasets, with experience in Python, R, SQL, Tableau, and statistical modeling.
 
-[View My Projects](projects.qmd){.btn-custom}
-[Resume & Contact](resume.qmd){.btn-custom-outline}
+[View My Projects](projects.qmd){.btn-custom} [Resume & Contact](resume.qmd){.btn-custom-outline}
 :::
 
-::: {.grid}
-::: {.card-custom}
+:::::: grid
+::: card-custom
 ## Education
-B.S. in Statistics & Data Science  
-University of California, Los Angeles  
+
+B.S. in Statistics & Data Science\
+University of California, Los Angeles\
 Expected Graduation: June 2027
 :::
 
-::: {.card-custom}
+::: card-custom
 ## Interests
-- Data science
-- Machine learning
-- Business analytics
-- Data visualization
-- Public sector / social impact applications
+
+-   Data science
+-   Machine learning
+-   Business analytics
+-   Data visualization
+-   Public sector / social impact applications
 :::
 
-::: {.card-custom}
+::: card-custom
 ## Tools
+
 Python, R, SQL, Tableau, GitHub, Quarto, C++
 :::
-:::
+::::::
 
 ## Quick Introduction
 
 Welcome to my personal website. This site highlights my background, projects, and interests as I continue building my experience in statistics, data science, and analytical problem-solving. I created this website to share my work with employers, collaborators, and anyone interested in learning more about what I do.
 
-![Professional headshot](images/headshot.jpg){.profile-home}
+![Professional headshot](images/headshot.png){.profile-home}

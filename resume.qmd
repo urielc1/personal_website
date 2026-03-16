@@ -10,9 +10,9 @@ You can view or download my resume here:
 
 ## Contact
 
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn:** [linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/yourlinkedin)
+-   **Email:** [youremail\@example.com](mailto:youremail@example.com)
+-   **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+-   **LinkedIn:** [linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/yourlinkedin)
 
 ## Professional Links
 

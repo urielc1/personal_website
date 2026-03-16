@@ -14,25 +14,15 @@ My academic background has given me experience with statistical modeling, regres
 
 ## Education
 
-**University of California, Los Angeles (UCLA)**  
-B.S. in Statistics & Data Science  
+**University of California, Los Angeles (UCLA)**\
+B.S. in Statistics & Data Science\
 Expected Graduation: Month Year
 
-**Relevant Coursework**
-- Regression Analysis
-- Machine Learning / Data Analysis
-- Statistical Computing
-- Data Visualization
-- Linear Algebra
-- Probability / Mathematical Statistics
+**Relevant Coursework** - Regression Analysis - Machine Learning / Data Analysis - Statistical Computing - Data Visualization - Linear Algebra - Probability / Mathematical Statistics
 
 ## What I’m Interested In
 
-I’m especially interested in:
-- data analysis for real-world decision-making
-- machine learning and predictive modeling
-- data visualization and communication
-- interdisciplinary projects connecting data with social, business, or public issues
+I’m especially interested in: - data analysis for real-world decision-making - machine learning and predictive modeling - data visualization and communication - interdisciplinary projects connecting data with social, business, or public issues
 
 ## Outside the Classroom
 
