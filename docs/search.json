@@ -88,34 +88,34 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Overview:\nBuilt a multiple linear regression project in R to study how movie reviews and related features influenced box office revenue.\nMy Contribution:\nWorked on data analysis, diagnostic plots, model interpretation, and presentation of findings.\nTools:\nR, regression analysis, data visualization\n\n\n\n\nOverview:\nDeveloped a machine learning model in Python to predict whether a YouTube video would become viral using large-scale metadata and textual features.\nMy Contribution:\nScraped and processed over 774,000 video records, engineered structured and text-based features, and helped train a neural network model to analyze patterns in video performance.\nTools:\nPython, Pandas, NumPy, Scikit-learn, TensorFlow, machine learning\n\n\n\n\nOverview:\nCreated a Tableau-based group project analyzing dating profile data to identify trends and patterns in self-presentation.\nMy Contribution:\nContributed to analysis, visualization design, and communicating results in a presentation.\nTools:\nTableau, data visualization, exploratory data analysis\n\n\n\n\nOverview:\nConducted an exploratory analysis of housing prices in Los Angeles using historical housing datasets and geographic data. The project focused on identifying spatial and structural patterns that influence property values.\nMy Contribution:\nCleaned and processed housing datasets, integrated geographic boundary data for Los Angeles County, and built a regression-based model to examine how location and housing characteristics relate to price trends.\nTools:\nList tools, skills, or methods.\nLink:\nGitHub Repo\nor\nReport / Writeup"
+    "text": "Overview:\nDeveloped a machine learning model in Python to predict whether a YouTube video would become viral using large-scale metadata and textual features.\nMy Contribution:\nScraped and processed over 774,000 video records, engineered structured and text-based features, and helped train a neural network model to analyze patterns in video performance.\nTools:\nPython, Pandas, NumPy, Scikit-learn, TensorFlow, machine learning\nLink:\nGithub Repo\nor\nReport\n\n\n\n\nOverview:\nBuilt a multiple linear regression project in R to study how movie reviews and related features influenced box office revenue.\nMy Contribution:\nWorked on data analysis, diagnostic plots, model interpretation, and presentation of findings.\nTools:\nR, regression analysis, data visualization\nLink:\nReport\n\n\n\n\nOverview:\nConducted an exploratory analysis of housing prices in Los Angeles using historical housing datasets and geographic data. The project focused on identifying spatial and structural patterns that influence property values.\nMy Contribution:\nCleaned and processed housing datasets, integrated geographic boundary data for Los Angeles County, and built a regression-based model to examine how location and housing characteristics relate to price trends.\nTools:\nList tools, skills, or methods.\nLink:\nResearch Poster\n\n\n\n\nOverview:\nCreated a Tableau-based group project analyzing dating profile data to identify trends and patterns in self-presentation.\nMy Contribution:\nContributed to analysis, visualization design, and communicating results in a presentation.\nTools:\nTableau, data visualization, exploratory data analysis\nLink: Presentation Slides"
+  },
+  {
+    "objectID": "projects.html#youtube-virality-project",
+    "href": "projects.html#youtube-virality-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Overview:\nDeveloped a machine learning model in Python to predict whether a YouTube video would become viral using large-scale metadata and textual features.\nMy Contribution:\nScraped and processed over 774,000 video records, engineered structured and text-based features, and helped train a neural network model to analyze patterns in video performance.\nTools:\nPython, Pandas, NumPy, Scikit-learn, TensorFlow, machine learning\nLink:\nGithub Repo\nor\nReport"
   },
   {
     "objectID": "projects.html#movie-box-office-regression-analysis",
     "href": "projects.html#movie-box-office-regression-analysis",
     "title": "Projects",
     "section": "",
-    "text": "Overview:\nBuilt a multiple linear regression project in R to study how movie reviews and related features influenced box office revenue.\nMy Contribution:\nWorked on data analysis, diagnostic plots, model interpretation, and presentation of findings.\nTools:\nR, regression analysis, data visualization"
-  },
-  {
-    "objectID": "projects.html#youtube-virality-predictor",
-    "href": "projects.html#youtube-virality-predictor",
-    "title": "Projects",
-    "section": "",
-    "text": "Overview:\nDeveloped a machine learning model in Python to predict whether a YouTube video would become viral using large-scale metadata and textual features.\nMy Contribution:\nScraped and processed over 774,000 video records, engineered structured and text-based features, and helped train a neural network model to analyze patterns in video performance.\nTools:\nPython, Pandas, NumPy, Scikit-learn, TensorFlow, machine learning"
-  },
-  {
-    "objectID": "projects.html#dating-profile-data-visualization-project",
-    "href": "projects.html#dating-profile-data-visualization-project",
-    "title": "Projects",
-    "section": "",
-    "text": "Overview:\nCreated a Tableau-based group project analyzing dating profile data to identify trends and patterns in self-presentation.\nMy Contribution:\nContributed to analysis, visualization design, and communicating results in a presentation.\nTools:\nTableau, data visualization, exploratory data analysis"
+    "text": "Overview:\nBuilt a multiple linear regression project in R to study how movie reviews and related features influenced box office revenue.\nMy Contribution:\nWorked on data analysis, diagnostic plots, model interpretation, and presentation of findings.\nTools:\nR, regression analysis, data visualization\nLink:\nReport"
   },
   {
     "objectID": "projects.html#los-angeles-housing-price-analysis",
     "href": "projects.html#los-angeles-housing-price-analysis",
     "title": "Projects",
     "section": "",
-    "text": "Overview:\nConducted an exploratory analysis of housing prices in Los Angeles using historical housing datasets and geographic data. The project focused on identifying spatial and structural patterns that influence property values.\nMy Contribution:\nCleaned and processed housing datasets, integrated geographic boundary data for Los Angeles County, and built a regression-based model to examine how location and housing characteristics relate to price trends.\nTools:\nList tools, skills, or methods.\nLink:\nGitHub Repo\nor\nReport / Writeup"
+    "text": "Overview:\nConducted an exploratory analysis of housing prices in Los Angeles using historical housing datasets and geographic data. The project focused on identifying spatial and structural patterns that influence property values.\nMy Contribution:\nCleaned and processed housing datasets, integrated geographic boundary data for Los Angeles County, and built a regression-based model to examine how location and housing characteristics relate to price trends.\nTools:\nList tools, skills, or methods.\nLink:\nResearch Poster"
+  },
+  {
+    "objectID": "projects.html#dating-profile-data-visualization-project",
+    "href": "projects.html#dating-profile-data-visualization-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Overview:\nCreated a Tableau-based group project analyzing dating profile data to identify trends and patterns in self-presentation.\nMy Contribution:\nContributed to analysis, visualization design, and communicating results in a presentation.\nTools:\nTableau, data visualization, exploratory data analysis\nLink: Presentation Slides"
   }
 ]

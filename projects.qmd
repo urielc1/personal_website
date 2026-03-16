@@ -15,7 +15,7 @@ Scraped and processed over 774,000 video records, engineered structured and text
 **Tools:**\
 Python, Pandas, NumPy, Scikit-learn, TensorFlow, machine learning
 
-**Link:**
+**Link:** 
 
 [Github Repo](https://github.com/jhc73/pic16b)
 
@@ -69,6 +69,4 @@ Contributed to analysis, visualization design, and communicating results in a pr
 **Tools:**\
 Tableau, data visualization, exploratory data analysis
 
-**Link:**
-
-[Presentation Slides](dating_slides.pdf)
+**Link:** [Presentation Slides](dating_slides.pdf)
