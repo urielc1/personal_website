@@ -21,13 +21,6 @@
     "text": "Headshot\n\n\n\n\nStatistics & Data Science Student at UCLA\nI’m a UCLA student interested in data analysis, machine learning, and using data to solve real-world problems. My work focuses on building clear insights from complex datasets using Python, R, SQL, Tableau, and statistical modeling.\nI’m especially interested in projects that combine technical analysis with real-world impact, including media analytics, social trends, business intelligence, and data visualization.\nView My Projects Resume & Contact"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Home",
-    "section": "Education",
-    "text": "Education\nUniversity of California, Los Angeles (UCLA)\nB.S. in Statistics & Data Science\nExpected Graduation: June 2027\nMinor: Digital Humanities"
-  },
-  {
     "objectID": "index.html#skills-interests",
     "href": "index.html#skills-interests",
     "title": "Home",
@@ -109,6 +102,13 @@
     "href": "projects.html#women-film-directors-analysis-primetime-project",
     "title": "Projects",
     "section": "Women Film Directors Analysis (PrimeTime Project)",
-    "text": "Women Film Directors Analysis (PrimeTime Project)\nOverview:\nAnalyzed gender representation in the film industry by examining datasets of film directors and movie production data. The project focused on identifying disparities in the number of films directed by women across time and production contexts.\nMy Contribution:\nDesigned and refined data visualizations to highlight patterns in gender representation among film directors. Transformed raw movie datasets into interpretable charts that supported exploratory analysis and discussion within the research team.\nResults:\nThe project produced an interactive website presenting the analysis and visualizations, helping communicate trends in gender disparity within the film industry.\nTools:\nData visualization, Tableau, exploratory data analysis, collaborative research\nLink:\nPrimeTime ———————————————————————— ## Dating Profile Data Visualization Project\nOverview:\nCreated a Tableau-based group project analyzing dating profile data to identify trends and patterns in self-presentation.\nMy Contribution:\nContributed to analysis, visualization design, and communicating results in a presentation.\nTools:\nTableau, data visualization, exploratory data analysis\nLink:\nPresentation Slides"
+    "text": "Women Film Directors Analysis (PrimeTime Project)\nOverview:\nAnalyzed gender representation in the film industry by examining datasets of film directors and movie production data. The project focused on identifying disparities in the number of films directed by women across time and production contexts.\nMy Contribution:\nDesigned and refined data visualizations to highlight patterns in gender representation among film directors. Transformed raw movie datasets into interpretable charts that supported exploratory analysis and discussion within the research team.\nResults:\nThe project produced an interactive website presenting the analysis and visualizations, helping communicate trends in gender disparity within the film industry.\nTools:\nData visualization, Tableau, exploratory data analysis, collaborative research\nLink:\nPrimeTime ————————————————————————"
+  },
+  {
+    "objectID": "projects.html#dating-profile-data-visualization-project",
+    "href": "projects.html#dating-profile-data-visualization-project",
+    "title": "Projects",
+    "section": "Dating Profile Data Visualization Project",
+    "text": "Dating Profile Data Visualization Project\nOverview:\nCreated a Tableau-based group project analyzing dating profile data to identify trends and patterns in self-presentation.\nMy Contribution:\nContributed to analysis, visualization design, and communicating results in a presentation.\nTools:\nTableau, data visualization, exploratory data analysis\nLink:\nPresentation Slides"
   }
 ]
