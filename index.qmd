@@ -3,7 +3,7 @@ title: "Home"
 ---
 
 ::: hero-section
-![Headshot](images/headshot.png){.profile-home}
+![Headshot](images/headshot.png){.profile-home width=320px}
 
 # Uriel Santa Cruz
 
