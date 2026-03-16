@@ -2,8 +2,6 @@
 title: "Projects"
 ---
 
-# Projects
-
 ## YouTube Virality Project
 
 **Overview:**\
@@ -15,8 +13,7 @@ Scraped and processed over 774,000 video records, engineered structured and text
 **Tools:**\
 Python, Pandas, NumPy, Scikit-learn, TensorFlow, machine learning
 
-**Link:** 
-
+**Link:**\
 [Github Repo](https://github.com/jhc73/pic16b)
 
 or
@@ -36,8 +33,7 @@ Worked on data analysis, diagnostic plots, model interpretation, and presentatio
 **Tools:**\
 R, regression analysis, data visualization
 
-**Link:**
-
+**Link:**\
 [Report](my_resume.pdf)
 
 ------------------------------------------------------------------------
@@ -57,7 +53,27 @@ List tools, skills, or methods.
 [Research Poster](final_poster.pdf)
 
 ------------------------------------------------------------------------
+## Los Angeles Housing Price Analysis
 
+**Overview:**\
+Analyzed gender representation in the film industry by examining datasets of film directors and movie production data. The project focused on identifying disparities in the number of films directed by women across time and production contexts.
+
+**My Contribution:**\
+Designed and refined data visualizations to highlight patterns in gender representation among film directors. Transformed raw movie datasets into interpretable charts that supported exploratory analysis and discussion within the research team.
+
+**Results:**\
+The project produced an interactive website presenting the analysis and visualizations, helping communicate trends in gender disparity within the film industry.
+
+**Tools:**\
+Data visualization, Tableau, exploratory data analysis, collaborative research
+
+**Link:**\
+[PrimeTime](https://primetime.humspace.ucla.edu)
+
+
+
+
+------------------------------------------------------------------------
 ## Dating Profile Data Visualization Project
 
 **Overview:**\
@@ -69,5 +85,5 @@ Contributed to analysis, visualization design, and communicating results in a pr
 **Tools:**\
 Tableau, data visualization, exploratory data analysis
 
-**Link:** 
+**Link:**\
 [Presentation Slides](dating_slides.pdf)
