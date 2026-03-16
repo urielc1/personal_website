@@ -53,7 +53,8 @@ List tools, skills, or methods.
 [Research Poster](final_poster.pdf)
 
 ------------------------------------------------------------------------
-## Los Angeles Housing Price Analysis
+
+## Women Film Directors Analysis (PrimeTime Project)
 
 **Overview:**\
 Analyzed gender representation in the film industry by examining datasets of film directors and movie production data. The project focused on identifying disparities in the number of films directed by women across time and production contexts.
@@ -69,10 +70,6 @@ Data visualization, Tableau, exploratory data analysis, collaborative research
 
 **Link:**\
 [PrimeTime](https://primetime.humspace.ucla.edu)
-
-
-
-
 ------------------------------------------------------------------------
 ## Dating Profile Data Visualization Project
 
