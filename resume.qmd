@@ -8,12 +8,14 @@ You can view or download my resume here:
 
 [Download My Resume (PDF)](my_resume.pdf)
 
+<iframe src="my_resume.pdf" width="100%" height="600px">
+
+</iframe>
+
 ## Contact
 
 -   **Email:** [usantacruz05\@gmail.com](mailto:usantacruz05@gmail.com)
 -   **GitHub:** [github.com/urielc1](https://github.com/urielc1)
 -   **LinkedIn:** [linkedin.com/in/urielsc1](https://www.linkedin.com/in/urielsc1)
 
-## Professional Links
-
-Feel free to connect with me or explore more of my work through the platforms above.
+If you’d like to connect, collaborate, or learn more about my work, feel free to reach out through the platforms below.
