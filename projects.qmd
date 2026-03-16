@@ -69,4 +69,5 @@ Contributed to analysis, visualization design, and communicating results in a pr
 **Tools:**\
 Tableau, data visualization, exploratory data analysis
 
-**Link:** [Presentation Slides](dating_slides.pdf)
+**Link:** 
+[Presentation Slides](dating_slides.pdf)
