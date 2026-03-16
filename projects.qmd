@@ -4,6 +4,27 @@ title: "Projects"
 
 # Projects
 
+## YouTube Virality Project
+
+**Overview:**\
+Developed a machine learning model in Python to predict whether a YouTube video would become viral using large-scale metadata and textual features.
+
+**My Contribution:**\
+Scraped and processed over 774,000 video records, engineered structured and text-based features, and helped train a neural network model to analyze patterns in video performance.
+
+**Tools:**\
+Python, Pandas, NumPy, Scikit-learn, TensorFlow, machine learning
+
+**Link:**
+
+[Github Repo](https://github.com/jhc73/pic16b)
+
+or
+
+[Report](virality_report)
+
+------------------------------------------------------------------------
+
 ## Movie Box Office Regression Analysis
 
 **Overview:**\
@@ -15,31 +36,9 @@ Worked on data analysis, diagnostic plots, model interpretation, and presentatio
 **Tools:**\
 R, regression analysis, data visualization
 
-------------------------------------------------------------------------
+**Link:**
 
-## YouTube Virality Predictor
-
-**Overview:**\
-Developed a machine learning model in Python to predict whether a YouTube video would become viral using large-scale metadata and textual features.
-
-**My Contribution:**\
-Scraped and processed over 774,000 video records, engineered structured and text-based features, and helped train a neural network model to analyze patterns in video performance.
-
-**Tools:**\
-Python, Pandas, NumPy, Scikit-learn, TensorFlow, machine learning
-
-------------------------------------------------------------------------
-
-## Dating Profile Data Visualization Project
-
-**Overview:**\
-Created a Tableau-based group project analyzing dating profile data to identify trends and patterns in self-presentation.
-
-**My Contribution:**\
-Contributed to analysis, visualization design, and communicating results in a presentation.
-
-**Tools:**\
-Tableau, data visualization, exploratory data analysis
+[Report](my_resume.pdf)
 
 ------------------------------------------------------------------------
 
@@ -55,6 +54,21 @@ Cleaned and processed housing datasets, integrated geographic boundary data for 
 List tools, skills, or methods.
 
 **Link:**\
-[GitHub Repo](https://github.com/yourusername/project)\
-or\
-[Report / Writeup](https://...)
+[Research Poster](final_poster.pdf)
+
+------------------------------------------------------------------------
+
+## Dating Profile Data Visualization Project
+
+**Overview:**\
+Created a Tableau-based group project analyzing dating profile data to identify trends and patterns in self-presentation.
+
+**My Contribution:**\
+Contributed to analysis, visualization design, and communicating results in a presentation.
+
+**Tools:**\
+Tableau, data visualization, exploratory data analysis
+
+**Link:**
+
+[Presentation Slides](dating_slides.pdf)
