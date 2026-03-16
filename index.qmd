@@ -2,48 +2,94 @@
 title: "Home"
 ---
 
----
-title: "Home"
----
-
 ::: hero-section
+![Headshot](images/headshot.png){.profile-home}
+
 # Uriel Santa Cruz
 
 Statistics & Data Science Student at UCLA
 
-I’m a UCLA student interested in data analysis, machine learning, and using data to solve real-world problems. My work focuses on building clear, useful insights from messy datasets, with experience in Python, R, SQL, Tableau, and statistical modeling.
+I’m a UCLA student interested in data analysis, machine learning, and using data to solve real-world problems. My work focuses on building clear insights from complex datasets using Python, R, SQL, Tableau, and statistical modeling.
+
+I’m especially interested in projects that combine technical analysis with real-world impact, including media analytics, social trends, business intelligence, and data visualization.
 
 [View My Projects](projects.qmd){.btn-custom} [Resume & Contact](resume.qmd){.btn-custom-outline}
 :::
 
-:::::: grid
-::: card-custom
+------------------------------------------------------------------------
+
 ## Education
 
+**University of California, Los Angeles (UCLA)**\
 B.S. in Statistics & Data Science\
-University of California, Los Angeles\
 Expected Graduation: June 2027
+
+Minor: Digital Humanities
+
+------------------------------------------------------------------------
+
+## Skills & Interests
+
+::::::: grid
+::: card-custom
+### Programming
+
+Python, R, SQL, C++, Git
 :::
 
 ::: card-custom
-## Interests
+### Data Science
 
--   Data science
--   Machine learning
--   Business analytics
--   Data visualization
--   Public sector / social impact applications
+Statistical modeling, regression analysis, machine learning, neural networks, exploratory data analysis
 :::
 
 ::: card-custom
-## Tools
+### Tools
 
-Python, R, SQL, Tableau, GitHub, Quarto, C++
+Pandas, NumPy, Scikit-learn, TensorFlow, Tableau, Quarto, GitHub
+:::
+
+::: card-custom
+### Interests
+
+Data science, machine learning, business analytics, data visualization, media and technology, public-sector applications
+:::
+:::::::
+
+------------------------------------------------------------------------
+
+## Featured Projects
+
+:::::: grid
+::: card-custom
+### YouTube Virality Predictor
+
+Built a machine learning model in Python to predict whether a YouTube video would become viral using large-scale metadata and text-based features.
+
+[View Project](projects.qmd)
+:::
+
+::: card-custom
+### Los Angeles Housing Price Analysis
+
+Analyzed housing price patterns across Los Angeles using spatial data, regression modeling, and data visualization.
+
+[View Project](projects.qmd)
+:::
+
+::: card-custom
+### Movie Box Office Regression
+
+Used multiple linear regression in R to study how movie reviews and related features influenced box office revenue.
+
+[View Project](projects.qmd)
 :::
 ::::::
 
-## Quick Introduction
+------------------------------------------------------------------------
 
-Welcome to my personal website. This site highlights my background, projects, and interests as I continue building my experience in statistics, data science, and analytical problem-solving. I created this website to share my work with employers, collaborators, and anyone interested in learning more about what I do.
+## What I Hope to Build
 
-![Professional headshot](images/headshot.png){.profile-home}
+As I continue developing my experience in statistics and data science, I hope to work on projects that are not only technically strong but also meaningful and accessible. I’m interested in using data to support better decisions, uncover important patterns, and communicate insights clearly to different audiences.
+
+[See All Projects →](projects.qmd){.btn-custom}

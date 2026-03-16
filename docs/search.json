@@ -18,35 +18,35 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Statistics & Data Science Student at UCLA\nI’m a UCLA student interested in data analysis, machine learning, and using data to solve real-world problems. My work focuses on building clear, useful insights from messy datasets, with experience in Python, R, SQL, Tableau, and statistical modeling.\nView My Projects Resume & Contact"
+    "text": "Headshot\n\n\n\n\nStatistics & Data Science Student at UCLA\nI’m a UCLA student interested in data analysis, machine learning, and using data to solve real-world problems. My work focuses on building clear insights from complex datasets using Python, R, SQL, Tableau, and statistical modeling.\nI’m especially interested in projects that combine technical analysis with real-world impact, including media analytics, social trends, business intelligence, and data visualization.\nView My Projects Resume & Contact"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Home",
     "section": "Education",
-    "text": "Education\nB.S. in Statistics & Data Science\nUniversity of California, Los Angeles\nExpected Graduation: June 2027"
+    "text": "Education\nUniversity of California, Los Angeles (UCLA)\nB.S. in Statistics & Data Science\nExpected Graduation: June 2027\nMinor: Digital Humanities"
   },
   {
-    "objectID": "index.html#interests",
-    "href": "index.html#interests",
+    "objectID": "index.html#skills-interests",
+    "href": "index.html#skills-interests",
     "title": "Home",
-    "section": "Interests",
-    "text": "Interests\n\nData science\nMachine learning\nBusiness analytics\nData visualization\nPublic sector / social impact applications"
+    "section": "Skills & Interests",
+    "text": "Skills & Interests\n\n\nProgramming\nPython, R, SQL, C++, Git\n\n\nData Science\nStatistical modeling, regression analysis, machine learning, neural networks, exploratory data analysis\n\n\nTools\nPandas, NumPy, Scikit-learn, TensorFlow, Tableau, Quarto, GitHub\n\n\nInterests\nData science, machine learning, business analytics, data visualization, media and technology, public-sector applications"
   },
   {
-    "objectID": "index.html#tools",
-    "href": "index.html#tools",
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
     "title": "Home",
-    "section": "Tools",
-    "text": "Tools\nPython, R, SQL, Tableau, GitHub, Quarto, C++"
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\n\nYouTube Virality Predictor\nBuilt a machine learning model in Python to predict whether a YouTube video would become viral using large-scale metadata and text-based features.\nView Project\n\n\nLos Angeles Housing Price Analysis\nAnalyzed housing price patterns across Los Angeles using spatial data, regression modeling, and data visualization.\nView Project\n\n\nMovie Box Office Regression\nUsed multiple linear regression in R to study how movie reviews and related features influenced box office revenue.\nView Project"
   },
   {
-    "objectID": "index.html#quick-introduction",
-    "href": "index.html#quick-introduction",
+    "objectID": "index.html#what-i-hope-to-build",
+    "href": "index.html#what-i-hope-to-build",
     "title": "Home",
-    "section": "Quick Introduction",
-    "text": "Quick Introduction\nWelcome to my personal website. This site highlights my background, projects, and interests as I continue building my experience in statistics, data science, and analytical problem-solving. I created this website to share my work with employers, collaborators, and anyone interested in learning more about what I do.\n\n\n\nProfessional headshot"
+    "section": "What I Hope to Build",
+    "text": "What I Hope to Build\nAs I continue developing my experience in statistics and data science, I hope to work on projects that are not only technically strong but also meaningful and accessible. I’m interested in using data to support better decisions, uncover important patterns, and communicate insights clearly to different audiences.\nSee All Projects →"
   },
   {
     "objectID": "about.html",
